@@ -2405,7 +2405,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-area {
   padding-top: 100px;
-  background-color: #04091e;
+  /*background-color: #04091e;*/
+  background-color: #000000;
 }
 
 h6 {
