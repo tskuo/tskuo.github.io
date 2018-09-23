@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>PuPoP – Tzu-Sheng Kuo</title>
+		<title>Pacman – Tzu-Sheng Kuo</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -41,40 +41,76 @@
 				<!-- Start Generic Area -->
 				<section class="about-generic-area section-gap">
 					<div class="container border-top-generic">
-						<h3 class="about-title mb-30">PuPoP: Pop-up Prop on Palm for Virtual Reality</h3>
-						<h5 class="about-title mb-30">Publication:</h5>
-						<p class="about-title mb-30">Shan-Yuan Teng, <b>Tzu-Sheng Kuo</b>, Chi Wang, Chi-Huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen, “PuPoP: Pop-up Prop on Palm for Virtual Reality,” ACM Symposium on User Interface Software and Technology (UIST), 2018.</p>
+						<h3 class="about-title mb-30">Pacman AI</h3>
+						<p class="about-title mb-30">
+								Class project of National Taiwan University's "Introduction to Artificial Intelligence and Machine Learning" course, EE 4061, 2017 Full. This project is originally the class material of UC Berkeley's course, CS 188.</p>
 						<div class="row justify-content-md-center mb-20">
 							<div class="col-md-10">
 								<div class="embed-responsive embed-responsive-16by9">
-									<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UpWDa-jgC-I?rel=0" allowfullscreen></iframe>
+									<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-YyGK4sEaBo?rel=0" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
 							<div class="col-lg-10">
-								<p>The sensation of being able to feel the shape of an object when grasping it in Virtual Reality (VR) enhances a sense of presence and the ease of object manipulation. Though most prior works focus on force feedback on fingers, the haptic emulation of grasping a 3D shape requires the sensation of touch using the entire hand. Hence, we present Pop-up Prop on Palm (PuPoP), a light-weight pneumatic shape-proxy interface worn on the palm that pops several airbags up with predefined primitive shapes for grasping. When a user’s hand encounters a virtual object, an airbag of appropriate shape, ready for grasping, is inflated by way of the use of air pumps; the airbag then deflates when the object is no longer in play. Since PuPoP is a physical prop, it can provide the full sensation of touch to enhance the sense of realism for VR object manipulation. For this paper, we first explored the design and implementation of PuPoP with multiple shape structures. We then conducted two user studies to further understand its applicability. The first study shows that, when in conflict, visual sensation tends to dominate over touch sensation, allowing a prop with a fixed size to represent multiple virtual objects with similar sizes. The second study compares PuPoP with controllers and free- hand manipulation in two VR applications. The results suggest that utilization of dynamically-changing PuPoP, when grasped by users in line with the shapes of virtual objects, enhances enjoyment and realism. We believe that PuPoP is a simple yet effective way to convey haptic shapes in VR.</p>
+								<h5>1. Search in Pacman</h5>
+								<p>In this project, Pacman agent aims to find paths through the maze, as well as collecting food along the way. The followings are the algorithms used in this project:</p>
+								<ul class="mb-20">
+									<li>- Depth First Search</li>
+									<li>- Breadth First Search</li>
+									<li>- Uniform Cost Search</li>
+									<li>- A* Search</li>
+								</ul>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
-							<div class="col-md-10">
-								<div class="img-text">
-									<img src="/public/projects/pupop/img/teaser.jpg" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p>Figure 1. PuPoP is a wearable pneumatic shape-proxy interface for VR capable of popping up to primitive shapes and flattening on the palm. We demonstrate grasping emulation of picking up a virtual Lightsaber with a cylindrical PuPoP and throwing a virtual bomb with a spherical PuPoP.</p>
-								</div>
+							<div class="col-lg-10">
+								<h5>2. Multi-Agent Pacman</h5>
+								<p>In this project, Pacman tries to eat all the food without being attacked by ghosts. The core algorithms of this project involve the following techniques from adversarial searching problem:</p>
+								<ul class="mb-20">
+									<li>- Minimax Search</li>
+									<li>- Alpha-Beta Pruning</li>
+									<li>- Expectimax Search</li>
+									<li>- Evaluation Function Design</li>
+								</ul>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
-							<div class="col-md-10">
-								<div class="img-text">
-									<img src="/public/projects/pupop/img/design.png" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p style="text-align: center">Figure 2. PuPoP design overview (gray arrows indicate the palm direction).</p>
-								</div>
+							<div class="col-lg-10">
+								<h5>3. Tracking: Ghostbusters</h5>
+								<p>Different from problem 1 and 2, Pacman is now able to hunt for ghosts in this project. However, Pacman could only track ghosts by their banging and clanging, rather than knowing the ghosts' exact positions. We may solve this problem by constructing a Bayesian Model, and calculate the probability distribution of ghosts' positions by the following methods:</p>
+								<ul class="mb-20">
+									<li>- Exact Inference</li>
+									<li>- Approximate Inference: Particle Filtering</li>
+									<li>- Joint Particle Filtering (for multi-ghosts cases)</li>
+								</ul>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-lg-10">
+								<h5>4. Reinforcement Learning</h5>
+								<p>In this project, we let Pacman learn to play the game by itself. Instead of planning ahead before the game starts, Pacman react to the environment in real time based on the knowledge it leart by playing the game several times.</p>
+								<ul class="mb-20">
+									<li>- Value Iteration</li>
+									<li>- Reinforcement Learning: Q Learning</li>
+									<li>- Approximate Q-Learning</li>
+								</ul>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-lg-10">
+								<h5>5. Classification</h5>
+								<p>In this project, we design three classifiers for two tasks. The first task is handwritten numerical digits recognition, and the second task is learning pacman's behavior by observing its previous games. Three classifiers are:</p>
+								<ul class="mb-20">
+									<li>- Perceptron Classifier</li>
+									<li>- Large-Margin (MIRA) Classifier</li>
+									<li>- Slightly Modified Perceptron Classifier for Behavioral Cloning</li>
+								</ul>
 							</div>
 						</div>
 						<div class="row justify-content-md-center text-center">
 							<div class="col-md-10">
-								<a style="text-align: center" href="/public/projects/pupop/pdf/pupop_uist18.pdf" class="genric-btn primary-border radius">PDF Publication</a>
+								<a style="text-align: center" href="https://github.com/awinder0230/Berkeley-Pacman-AI" class="genric-btn primary-border radius">Github</a>
 							</div>
 						</div>
 					</div>
