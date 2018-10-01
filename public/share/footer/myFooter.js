@@ -5,7 +5,7 @@ document.getElementById("myFooter").innerHTML =
         '<div class="single-footer-widget">'+
           '<h6>Footprint</h6>'+
           '<p>'+
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.'+
+            'something here'+
           '</p>'+
           '<p class="footer-text">'+
             'This template is modified from <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>'+
@@ -15,7 +15,7 @@ document.getElementById("myFooter").innerHTML =
       '<div class="col-lg-5  col-md-6 col-sm-6">'+
         '<div class="single-footer-widget">'+
           '<h6>Newsletter</h6>'+
-          '<p>Stay update with our latest</p>'+
+          '<p>something here</p>'+
         '</div>'+
       '</div>'+
       '<div class="col-lg-2 col-md-6 col-sm-6 social-widget">'+
