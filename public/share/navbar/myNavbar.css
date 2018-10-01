@@ -1,0 +1,29 @@
+.navbar-custom  {
+    background-color: #FFFFFF;
+    border-color: #999999;
+    font-family: SimSun, STSong;
+}
+
+.navbar-custom li a {
+    color: #515356;
+    justify-content: center;
+    align-items: center;
+    padding: 7px 20px;
+    text-align: center;
+    line-height: 18px;
+    letter-spacing: 1px;
+}
+
+.navbar-custom li a:hover {
+    color: #9F9383;
+}
+
+#navbar-chinese {
+    font-size: 13px;
+}
+
+.navbar-header a {
+    color: inherit;
+    text-align: center;
+    font-size: 20px;
+}
