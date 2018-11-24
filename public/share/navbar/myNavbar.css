@@ -1,7 +1,7 @@
 .navbar-custom  {
     background-color: #FFFFFF;
     border-color: #999999;
-    font-family: SimSun, STSong;
+    font-family: "Poppins", sans-serif;
 }
 
 .navbar-custom li a {
@@ -16,10 +16,6 @@
 
 .navbar-custom li a:hover {
     color: #9F9383;
-}
-
-#navbar-chinese {
-    font-size: 13px;
 }
 
 .navbar-header a {

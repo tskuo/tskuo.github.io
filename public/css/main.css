@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 /*--------------------------- Color variations ----------------------*/
 /* Medium Layout: 1280px */
 /* Tablet Layout: 768px */
@@ -52,9 +53,9 @@
 body {
   /* jason color: #777777; */
   color: #555555;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  font-weight: 300;
+  font-family: "Source Sans Pro", Helvetica, "Poppins", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
   line-height: 1.625em;
   position: relative;
 }
@@ -119,7 +120,7 @@ a, a:focus, a:hover {
 
 h1, h2, h3,
 h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: Helvetica, "Poppins", sans-serif;
   color: #222222;
   line-height: 1.2em !important;
   margin-bottom: 0;
@@ -131,7 +132,7 @@ h4, h5, h6 {
 .h4, .h5, .h6 {
   margin-bottom: 0;
   margin-top: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: Helvetica, "Poppins", sans-serif;
   font-weight: 600;
   color: #222222;
 }
@@ -841,7 +842,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
   line-height: 40px;
   padding: 0 30px;
-  font-size: .8em;
+  font-size: .9em;
   text-align: center;
   text-decoration: none;
   font-weight: 500;
@@ -1952,8 +1953,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-nav a {
   text-transform: uppercase;
-  font-weight: 500;
-  font-size: 12px;
+  font-weight: 600;
+  font-size: 13px;
   color: #fff;
   padding: 20px;
 }
@@ -2340,7 +2341,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters-content .item .p-inner .cat {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .portfolio-area .filters-content .item img {
