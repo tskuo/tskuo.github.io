@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>HDR – Tzu-Sheng Kuo</title>
+		<title>Action Recognition – Tzu-Sheng Kuo</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -41,27 +41,38 @@
 				<!-- Start Generic Area -->
 				<section class="about-generic-area section-gap">
 					<div class="container border-top-generic">
-						<h3 class="about-title mb-30">High Dynamic Range Imaging</h3>
-						<p class="about-title mb-30">My class project of Digital Visual Effects in Spring 2017.</p>
+						<h3 class="about-title mb-30">Action Recognition</h3>
+						<h5 class="about-title mb-30">Personal Project</h5>
+						<p class="about-title mb-30">Design and implement a neural network that recognizes actions within first-person cooking videos.</p>
 						<div class="row justify-content-md-center">
 							<div class="col-md-10">
 								<div class="img-text">
-									<img src="/public/projects/hdr/img/teaser.png" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p style="text-align: center">Figure 1. Input: a serise of images with different exposure times. Output: an HDR image.</p>
+									<img src="/public/projects/action/img/result.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p>Figure 1. Recognition results for one exemplary input video. A person is making a cheeseburger throughout the video, which contains 1360 frames in total. Selected frames of this input video are shown in the middle. Colors denote predicted and ground truth actions of each frame in the video.</p>
 								</div>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
 							<div class="col-lg-10">
-								<p>High Dynamic Range (HDR) images have large dynamic ranges which correspond to irradiance value of a scene in physical world. This project implemented a program to assemble an HDR image from a list of images with identical scene but with different exposure times.</p>
+								<p>Action recognition is an important research problem that aims to classify human actions into different categories. This research problem is critical for enhancing the context-awareness of smart homes, Internet of Things (IoT), gaming, etc. In this project, I build a model that extracts image features using ResNet-101 and interprets temporal information using bidirectional RNN. The output of RNN is later fed into two fully connected layers followed by a softmax layer. The whole network architecture is illustrated in Figure 2 below.</p>
 							</div>
 						</div>
-						<div class="row justify-content-md-center text-center">
-							<div class="col-md-2">
-								<a style="text-align: center" href="https://github.com/awinder0230/2017-Spring-Digital-Visual-Effect/tree/master/project%201" class="genric-btn primary-border radius">Github</a>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/action/img/model.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 2. The network architecture.
+									</p>
+								</div>
 							</div>
-							<div class="col-md-2">
-								<a style="text-align: center" href="/public/projects/hdr/pdf/report.pdf" class="genric-btn primary-border radius">Report</a>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/action/img/history.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 3. Training and validation history.
+									</p>
+								</div>
 							</div>
 						</div>
 					</div>
