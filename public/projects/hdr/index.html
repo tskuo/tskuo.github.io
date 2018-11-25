@@ -42,7 +42,8 @@
 				<section class="about-generic-area section-gap">
 					<div class="container border-top-generic">
 						<h3 class="about-title mb-30">High Dynamic Range Imaging</h3>
-						<p class="about-title mb-30">My class project of Digital Visual Effects in Spring 2017.</p>
+						<h5 class="about-title mb-30">Team Project</h5>
+						<p class="about-title mb-30">Generate a High Dynamic Range (HDR) image from multiple images under different exposures.</p>
 						<div class="row justify-content-md-center">
 							<div class="col-md-10">
 								<div class="img-text">
@@ -53,7 +54,40 @@
 						</div>
 						<div class="row justify-content-md-center">
 							<div class="col-lg-10">
-								<p>High Dynamic Range (HDR) images have large dynamic ranges which correspond to irradiance value of a scene in physical world. This project implemented a program to assemble an HDR image from a list of images with identical scene but with different exposure times.</p>
+								<p>
+									HDR images have large dynamic ranges that correspond to the irradiance value of a scene in the physical world. We implement a program to assemble an HDR image from a list of images with an identical scene but with different exposure times. The end-to-end algorithm contains three steps: 1) image alignment, 2) HDR, and 3) tone mapping. We implement the Ward’s Median Threshold Bitmap (MTB) algorithm for image alignment, both Paul Debevec's and Robertson's method for HDR, and both global and local version for tone mapping. Exemplary results for each step are shown below. Please refer to the technical report for more details. Our code is also publically available at GitHub. </p>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/hdr/img/step1.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 2. From left to right: original image, median threshold bitmap, and exclusion bitmap.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/hdr/img/step2.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 3. Irradiance map of RGB channels and function g(Zij) in Debevec’s Method with lambda = 10.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/hdr/img/step3.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 4. From left to right: Paul Debevec's method, Robertson's method, Matlab’s default implementation.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/hdr/img/step4.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p>Figure 5. Three methods for tone mapping. From left to right: Reinhard’s global version, Reinhard’s local version, Matlab’s default implementation.</p>
+								</div>
 							</div>
 						</div>
 						<div class="row justify-content-md-center text-center">

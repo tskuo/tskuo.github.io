@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>PuPoP – Tzu-Sheng Kuo</title>
+		<title>Image Stitching – Tzu-Sheng Kuo</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -41,45 +41,65 @@
 				<!-- Start Generic Area -->
 				<section class="about-generic-area section-gap">
 					<div class="container border-top-generic">
-						<h3 class="about-title mb-30">PuPoP: Pop-up Prop on Palm for Virtual Reality</h3>
-						<h5 class="about-title mb-30">Publication:</h5>
-						<p class="about-title mb-30">Shan-Yuan Teng, <b>Tzu-Sheng Kuo</b>, Chi Wang, Chi-Huan Chiang, Da-Yuan Huang, Liwei Chan, Bing-Yu Chen, “PuPoP: Pop-up Prop on Palm for Virtual Reality,” ACM Symposium on User Interface Software and Technology (UIST), 2018.</p>
-						<div class="row justify-content-md-center mb-20">
+						<h3 class="about-title mb-30">Image Stitching</h3>
+						<h5 class="about-title mb-30">Team Project</h5>
+						<p class="about-title mb-30">Generate a panorama given a set of input images.</p>
+						<div class="row justify-content-md-center">
 							<div class="col-md-10">
-								<div class="embed-responsive embed-responsive-16by9">
-									<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UpWDa-jgC-I?rel=0" allowfullscreen></iframe>
+								<div class="img-text">
+									<img src="/public/projects/stitching/img/result.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 1. The end-to-end algorithm takes multiple images as input and creates a panorama as output.</p>
 								</div>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
 							<div class="col-lg-10">
-								<p>The sensation of being able to feel the shape of an object when grasping it in Virtual Reality (VR) enhances a sense of presence and the ease of object manipulation. Though most prior works focus on force feedback on fingers, the haptic emulation of grasping a 3D shape requires the sensation of touch using the entire hand. Hence, we present Pop-up Prop on Palm (PuPoP), a light-weight pneumatic shape-proxy interface worn on the palm that pops several airbags up with predefined primitive shapes for grasping. When a user’s hand encounters a virtual object, an airbag of appropriate shape, ready for grasping, is inflated by way of the use of air pumps; the airbag then deflates when the object is no longer in play. Since PuPoP is a physical prop, it can provide the full sensation of touch to enhance the sense of realism for VR object manipulation.</p>
+								<p>Image stitching is a research problem that aims to create an image with a larger field of view (FOV) by stitching multiple images together. One common application of image stitching is the generation of panorama, which features a wide-horizontal-angle view. In this project, we implemented an end-to-end algorithm that takes multiple images as input and creates a panorama as output.</p>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
-								<div class="col-lg-10">
-									<p>For this paper, we first explored the design and implementation of PuPoP with multiple shape structures. We then conducted two user studies to further understand its applicability. The first study shows that, when in conflict, visual sensation tends to dominate over touch sensation, allowing a prop with a fixed size to represent multiple virtual objects with similar sizes. The second study compares PuPoP with controllers and free- hand manipulation in two VR applications. The results suggest that utilization of dynamically-changing PuPoP, when grasped by users in line with the shapes of virtual objects, enhances enjoyment and realism. We believe that PuPoP is a simple yet effective way to convey haptic shapes in VR.</p>
-								</div>
-							</div>
-						<div class="row justify-content-md-center">
-							<div class="col-md-10">
-								<div class="img-text">
-									<img src="/public/projects/pupop/img/teaser.jpg" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p>Figure 1. PuPoP is a wearable pneumatic shape-proxy interface for VR capable of popping up to primitive shapes and flattening on the palm. We demonstrate grasping emulation of picking up a virtual Lightsaber with a cylindrical PuPoP and throwing a virtual bomb with a spherical PuPoP.</p>
-								</div>
+							<div class="col-lg-10">
+								<p>The algorithm includes six different steps: 1) feature detection, 2) feature matching, 3) cylindrical projection, 4) image matching, 5) blending, and 6) seam carving. Each step contains several substeps. For example, feature detection includes three substeps: i) get initial features, ii) refine features, and iii) generate descriptors. Exemplary results for each step are shown below. Please refer to our technical report for more details. Our code is also publicly available at GitHub.</p>
 							</div>
 						</div>
 						<div class="row justify-content-md-center">
 							<div class="col-md-10">
 								<div class="img-text">
-									<img src="/public/projects/pupop/img/design.png" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p style="text-align: center">Figure 2. PuPoP design overview (gray arrows indicate the palm direction).</p>
+									<img src="/public/projects/stitching/img/step2.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p>Figure 2. From left to right: original image, an image with detected features, an image with the reduced number of detected features by applying the ANMS algorithm.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/stitching/img/step3.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 3. Looking for feature matching pairs between two neighboring images using KNN Search.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/stitching/img/step4.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 4. Original images and the cylindrically projected images.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row justify-content-md-center">
+							<div class="col-md-10">
+								<div class="img-text">
+									<img src="/public/projects/stitching/img/step5.png" alt="" class="img-fluid float-left mr-20 mb-20">
+									<p style="text-align: center">Figure 5. The final result after performing image matching, image blending, and seam carving.</p>
 								</div>
 							</div>
 						</div>
 						<div class="row justify-content-md-center text-center">
-							<div class="col-md-10">
-								<a style="text-align: center" href="/public/projects/pupop/pdf/pupop_uist18.pdf" class="genric-btn primary-border radius">PDF Publication</a>
+							<div class="col-md-2">
+								<a style="text-align: center" href="https://github.com/awinder0230/2017-Spring-Digital-Visual-Effect/tree/master/project%202" class="genric-btn primary-border radius">GitHub</a>
+							</div>
+							<div class="col-md-2">
+								<a style="text-align: center" href="/public/projects/stitching/pdf/report.pdf" class="genric-btn primary-border radius">Report</a>
 							</div>
 						</div>
 					</div>
