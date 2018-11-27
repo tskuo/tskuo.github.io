@@ -22,7 +22,6 @@ document.getElementById("myFooter").innerHTML =
           '<div class="footer-social d-flex align-items-center">'+
             '<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tzu-sheng-kuo/"><i class="fa fa-linkedin"></i></a>'+
             '<a target="_blank" rel="noopener noreferrer" href="https://github.com/awinder0230"><i class="fa fa-github"></i></a>'+
-            '<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/JasonKuo0230"><i class="fa fa-twitter"></i></a>'+
           '</div>'+
         '</div>'+
       '</div>'+
