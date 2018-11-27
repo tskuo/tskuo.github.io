@@ -2324,16 +2324,29 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-area .filters-content .item {
   text-align: center;
-  cursor: pointer;
+  /* Jason cursor: pointer; */
   margin-bottom: 30px;
 }
 
 .portfolio-area .filters-content .item img {
   border-radius: 10px;
+  transition: .4s ease; /* Jason*/
+}
+
+/* Jason*/
+.portfolio-area .filters-content .item img:hover {
+  opacity: 0.8;
 }
 
 .portfolio-area .filters-content .item .p-inner {
   padding: 20px 0px;
+}
+/* Jason*/
+.portfolio-area .filters-content .item .p-inner h4 {
+  transition: .2s ease;
+}
+.portfolio-area .filters-content .item .p-inner h4:hover {
+  color: #8ab92d;
 }
 
 .portfolio-area .filters-content .item .p-inner h5 {
