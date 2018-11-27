@@ -3,12 +3,10 @@ document.getElementById("myFooter").innerHTML =
     '<div class="row">'+
       '<div class="col-lg-5 col-md-6 col-sm-6">'+
         '<div class="single-footer-widget">'+
-          '<h6>Footprint</h6>'+
-          '<p>'+
-            'something here'+
-          '</p>'+
+          '<h6>Copyright</h6>'+
+          '<p><a href="/" class="mymail">© Tzu-Sheng Kuo 2018</a></p>'+
           '<p class="footer-text">'+
-            'This template is modified from <a style="color: #555555;" href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>'+
+            'This template is modified from <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>'+
           '</p>'+
         '</div>'+
       '</div>'+

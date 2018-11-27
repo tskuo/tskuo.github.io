@@ -2568,10 +2568,11 @@ h6 {
 
 .footer-text {
   padding-top: 20px;
+  color: #333333;
 }
 
 .footer-text a, .footer-text i {
-  color: #8ab92d;
+  color: #333333;
 }
 
 .whole-wrap {
