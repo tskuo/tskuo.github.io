@@ -15,7 +15,7 @@ document.getElementById("myFooter").innerHTML =
       '<div class="col-lg-5  col-md-6 col-sm-6">'+
         '<div class="single-footer-widget">'+
           '<h6>Contact</h6>'+
-          '<p"><i class="fa fa-envelope"></i><a href="mailto:awinder0230@gmail.com" style="color: grey;"> awinder0230@gmail.com</a></p>'+
+          '<p><a class="mymail" href="mailto:awinder0230@gmail.com"><i class="fa fa-envelope"></i> awinder0230@gmail.com</a></p>'+
         '</div>'+
       '</div>'+
       '<div class="col-lg-2 col-md-6 col-sm-6 social-widget">'+
