@@ -50,6 +50,11 @@
   font-weight: 300;
 }
 
+/* jason NEW */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   /* jason color: #777777; */
   color: #444444;

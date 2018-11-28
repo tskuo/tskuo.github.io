@@ -7,9 +7,9 @@ document.getElementById("myNavbar").innerHTML =
       '<ul class="navbar-nav">'+
         '<li><a href="/">Home</a></li>'+
         '<li><a href="/public/pages/about/">About</a></li>'+
-        '<li><a href="/">Portfolio</a></li>'+
+        '<li><a href="/#portfolio">Portfolio</a></li>'+
         '<li><a href="/#awards">Awards</a></li>'+
-        '<li><a href="/#activity">Activities</a></li>'+
+        '<li><a href="/#activity">Leadership</a></li>'+
         '<li><a href="/public/assets/cv/cv-Kuo.pdf">Resume</a></li>'+
       '</ul>'+
     '</div>'+
