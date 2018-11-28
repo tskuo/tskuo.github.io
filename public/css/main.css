@@ -63,6 +63,7 @@ body {
   font-weight: 400;
   line-height: 1.625em;
   position: relative;
+  text-align: justify;
 }
 
 ol, ul {
@@ -2364,6 +2365,21 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-area .filters-content .item img {
   width: 100%;
+}
+
+/* Jason NEW*/
+.highlight-a {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  color: inherit;
+}
+
+.highlight-a:focus, .highlight-a:hover {
+  text-decoration: none;
+  outline: 0;
+  color: #8ab92d;
 }
 
 .service-area {
