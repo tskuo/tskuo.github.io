@@ -1,34 +1,64 @@
-.navbar-custom  {
-    background-color: #FFFFFF;
-    border-color: #999999;
-    font-family: "Poppins", sans-serif;
+/* Navbar */
+
+.navbar-nav li a {
+
+  /* original css
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 13px;
+  color: #F4F4F4; 
+  padding: 20px;
+  */
+
+  
+  float: left;
+  position: relative;
+  text-transform: uppercase;
+  padding: 0px 20px;
+  font-weight: 600;
+  font-size: 13px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #F4F4F4;
+  
 }
 
-.navbar-custom li a {
-    color: #515356;
-    justify-content: center;
-    align-items: center;
-    padding: 7px 20px;
-    text-align: center;
-    line-height: 18px;
-    letter-spacing: 1px;
+/*
+.navbar-nav li a:hover {
+  color: #d2c295;
+  font-weight: 900;
 }
+*/
 
-.navbar-custom li a:hover {
-    color: #9F9383;
-}
-
-.navbar-header a {
-    color: inherit;
-    text-align: center;
-    font-size: 20px;
+.navbar-nav li a:after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 2px;
+  width: 0;
+  background: transparent;
+  color: #F4F4F4;
 }
 
 /* Footer */
+
+.mylink:after {
+  transition: width .5s ease, background-color .5s ease, left .5s ease;
+}
+
+.mylink:hover:after {
+  width: 60%;
+  left: 20%;
+  background: #F4F4F4;
+}
+
 .mymail {
-    color: grey;
+    color: #F4F4F4;
 }
 
 .mymail:hover {
-    color: #8ab92d;
+    /* color: #B1040E; */
+    color: #d2c295;
 }

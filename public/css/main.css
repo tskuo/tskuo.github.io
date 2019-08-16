@@ -7,14 +7,19 @@
 /* =================================== */
 /*  Basic Style 
 /* =================================== */
+
+/* Jason modification */
+/* original theme color: #8ab92d */
+/* change into: #B1040E (Bright Red) */
+
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #8ab92d;
+  background-color: #B1040E;
   color: #fff;
 }
 
 ::selection {
-  background-color: #8ab92d;
+  background-color: #B1040E;
   color: #fff;
 }
 
@@ -790,7 +795,7 @@ td, th {
 }
 
 b, sup, sub, u, del {
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 h1 {
@@ -925,25 +930,25 @@ h1, h2, h3, h4, h5, h6 {
 
 .genric-btn.primary {
   color: #fff;
-  background: #8ab92d;
+  background: #B1040E;
   border: 1px solid transparent;
 }
 
 .genric-btn.primary:hover {
-  color: #8ab92d;
-  border: 1px solid #8ab92d;
+  color: #B1040E;
+  border: 1px solid #B1040E;
   background: #fff;
 }
 
 .genric-btn.primary-border {
-  color: #8ab92d;
-  border: 1px solid #8ab92d;
+  color: #B1040E;
+  border: 1px solid #B1040E;
   background: #fff;
 }
 
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #8ab92d;
+  background: #B1040E;
   border: 1px solid transparent;
 }
 
@@ -1079,7 +1084,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #8ab92d;
+  border-left: 2px solid #B1040E;
 }
 
 @media (max-width: 990px) {
@@ -1205,7 +1210,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #8ab92d;
+  border: 3px solid #B1040E;
   background: #fff;
   top: 4px;
   left: 0;
@@ -1218,7 +1223,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #8ab92d;
+  color: #B1040E;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1231,7 +1236,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #8ab92d;
+  color: #B1040E;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1244,7 +1249,7 @@ h1, h2, h3, h4, h5, h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #8ab92d;
+  color: #B1040E;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -1316,7 +1321,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #8ab92d;
+  border: 1px solid #B1040E;
 }
 
 .single-input-accent {
@@ -1377,7 +1382,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #8ab92d;
+  background: #B1040E;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1460,7 +1465,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-switch input:checked + label:before {
-  background: #8ab92d;
+  background: #B1040E;
 }
 
 .confirm-switch {
@@ -1809,12 +1814,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-select .nice-select .list .option.selected {
-  color: #8ab92d;
+  color: #B1040E;
   background: transparent;
 }
 
 .default-select .nice-select .list .option:hover {
-  color: #8ab92d;
+  color: #B1040E;
   background: transparent;
 }
 
@@ -1864,12 +1869,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #8ab92d;
+  color: #B1040E;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #8ab92d;
+  color: #B1040E;
   background: transparent;
 }
 
@@ -1899,7 +1904,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .collapse.show {
-  background-color: rgba(4, 9, 30, 0.8);
+  background-color: #8c1515;
   padding: 0px 12px;
 }
 
@@ -1956,18 +1961,21 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   border-color: #fff;
 }
-
+/*
+<Jason> Move to myNavebar.css
 .navbar-nav a {
   text-transform: uppercase;
   font-weight: 600;
   font-size: 13px;
-  color: #fff;
+  color: #F4F4F4; 
   padding: 20px;
 }
 
 .navbar-nav a:hover {
-  color: #8ab92d;
+  color: #F4F4F4;
 }
+</Jason>
+*/
 
 @media (max-width: 992px) {
   .navbar-nav {
@@ -2064,18 +2072,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .protfolio-wrap {
-  margin: 50px;
+  /* margin: 50px; */
 }
 
 @media (max-width: 767px) {
   .protfolio-wrap {
-    margin: 30px;
+    /* margin: 30px; */
   }
 }
 
 @media (max-width: 575px) {
   .protfolio-wrap {
-    margin: 10px;
+    /* margin: 10px; */
   }
 }
 
@@ -2103,7 +2111,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-btn {
-  background-color: #8ab92d;
+  background-color: #B1040E;
   line-height: 36px;
   padding-left: 30px;
   padding-right: 60px;
@@ -2158,11 +2166,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .primary-btn.white:hover {
   background: #fff;
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .primary-btn.white:hover span {
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .overlay {
@@ -2233,7 +2241,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .banner-content h5 {
-  color: #8ab92d;
+  color: #B1040E;
   font-weight: 300;
   letter-spacing: 3px;
   font-size: 12px;
@@ -2246,7 +2254,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-btn {
-  background: #8ab92d;
+  background: #B1040E;
   border: 1px solid transparent;
   color: #fff;
   padding-left: 40px;
@@ -2260,9 +2268,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+/* <Jason> */
+.portfolio-area {
+  background-color: #F4F4F4;
+}
+/* </Jason> */
+
 .portfolio-area .primary-btn {
   color: #fff;
-  background-color: #8ab92d;
+  background-color: #B1040E;
   margin-left: auto;
   margin-right: auto;
 }
@@ -2309,7 +2323,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters ul li.active {
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .portfolio-area .filters-content {
@@ -2352,7 +2366,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: .2s ease;
 }
 .portfolio-area .filters-content .item .p-inner h4:hover {
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .portfolio-area .filters-content .item .p-inner h5 {
@@ -2379,7 +2393,7 @@ h1, h2, h3, h4, h5, h6 {
 .highlight-a:focus, .highlight-a:hover {
   text-decoration: none;
   outline: 0;
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .service-area {
@@ -2441,8 +2455,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-area {
   padding-top: 100px;
-  /*background-color: #04091e;*/
-  background-color: #000000;
+  /* <Jason> */
+  background-color: #2e2d29;
+  color: #F4F4F4;
+  /* </Jason> */
 }
 
 h6 {
@@ -2453,7 +2469,7 @@ h6 {
 }
 
 .copy-right-text i, .copy-right-text a {
-  color: #8ab92d;
+  color: #B1040E;
 }
 
 .footer-social a {
@@ -2462,14 +2478,15 @@ h6 {
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  color: #F4F4F4;
 }
 
 .footer-social a:hover i {
-  color: #8ab92d;
+  color: #d2c295;
 }
 
 .footer-social i {
-  color: #cccccc;
+  color: #F4F4F4; /* Jason */
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2499,7 +2516,7 @@ h6 {
 }
 
 .single-footer-widget .bb-btn {
-  color: #8ab92d;
+  color: #B1040E;
   color: #fff;
   font-weight: 300;
   border-radius: 0;
@@ -2523,7 +2540,7 @@ h6 {
 }
 
 .single-footer-widget .click-btn {
-  background-color: #8ab92d;
+  background-color: #B1040E;
   color: #fff;
   border-radius: 0;
   border-top-left-radius: 0px;

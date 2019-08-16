@@ -5,35 +5,12 @@ document.getElementById("myNavbar").innerHTML =
     '</button>'+
     '<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">'+
       '<ul class="navbar-nav">'+
-        '<li><a href="/">Home</a></li>'+
-        '<li><a href="/#about">About</a></li>'+
-        '<li><a href="/#portfolio">Portfolio</a></li>'+
-        '<li><a href="/#awards">Awards</a></li>'+
-        '<li><a href="/#activity">Leadership</a></li>'+
-        '<li><a href="/public/assets/cv/cv-Kuo.pdf">Resume</a></li>'+
+        '<li><a class="mylink" href="/">Home</a></li>'+
+        '<li><a class="mylink" href="/#about">About</a></li>'+
+        '<li><a class="mylink" href="/#portfolio">Portfolio</a></li>'+
+        '<li><a class="mylink" href="/#awards">Awards</a></li>'+
+        '<li><a class="mylink" href="/#activity">Leadership</a></li>'+
+        '<li><a class="mylink" href="/public/assets/cv/cv-Kuo.pdf">Resume</a></li>'+
       '</ul>'+
     '</div>'+
   '</div>';
-
-/*
-document.getElementById("myNavbar").innerHTML =
-  '<div class="container-fluid">'+
-    '<div class="navbar-header">'+
-      '<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">'+
-        '<span class="icon-bar" style="background-color: #515356"></span>'+
-        '<span class="icon-bar" style="background-color: #515356"></span>'+
-        '<span class="icon-bar" style="background-color: #515356"></span>'+                     
-      '</button>'+
-    '</div>'+
-    '<div class="navbar-collapse collapse" id="myNavbar">'+
-      '<ul class="nav navbar-nav">'+
-        '<li><a href="/">Home</a></li>'+
-        '<li><a href="/#about">About</a></li>'+
-        '<li><a href="/">Portfolio</a></li>'+
-        '<li><a href="/#awards">Awards</a></li>'+
-        '<li><a href="/#activities">Activities</a></li>'+
-        '<li><a href="/public/assets/cv/cv-Kuo.pdf">Resume</a></li>'+
-      '</ul>'+
-    '</div>'+
-  '</div>';
-*/
