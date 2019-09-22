@@ -20,6 +20,7 @@ document.getElementById("myFooter").innerHTML =
             '<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tzu-sheng-kuo/"><i class="fa fa-linkedin"></i></a>'+
             '<a target="_blank" rel="noopener noreferrer" href="https://github.com/awinder0230"><i class="fa fa-github"></i></a>'+
             '<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/tzushengkuo"><i class="fa fa-twitter"></i></a>'+
+            '<a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=i305250AAAAJ&hl=en"><i class="fa fa-graduation-cap"></i></a>'+
           '</div>'+
         '</div>'+
       '</div>'+
