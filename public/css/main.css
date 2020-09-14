@@ -2270,6 +2270,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* <Jason> */
+.circularsquare {
+  border-radius: 50%;
+  /* width: 6em;
+  height: 6em; */
+}
+
 .portfolio-area {
   background-color: #F4F4F4;
 }
