@@ -1,23 +1,15 @@
 {
-  "name": "awinder0230.github.io",
+  "name": "website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Editorial by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/awinder0230/awinder0230.github.io.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/awinder0230/awinder0230.github.io/issues"
-  },
-  "homepage": "https://github.com/awinder0230/awinder0230.github.io#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   }
 }
