@@ -51,13 +51,13 @@ document.getElementById("mysidebar").innerHTML =
             '<h2>Get in Touch</h2>'+
         '</header>'+
         '<ul class="contact">'+
-            '<li class="icon solid fa-envelope"><a href="mailto:tskuo@stanford.edu">tskuo@stanford.edu</a></li>'+
+            '<li class="icon solid fa-envelope">tzushenk at cs dot cmu dot edu</li>'+
             '<!--<li class="icon solid fa-phone">(000) 000-0000</li>-->'+
-            '<li class="icon solid fa-home">Stanford, CA, USA</li>'+
+            '<li class="icon solid fa-home">Pittsburgh, PA, USA</li>'+
         '</ul>'+
     '</section>'+
 
     '<footer id="footer">'+
-        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2020.<br />'+
+        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2021.<br />'+
         'Original Template: <a href="https://html5up.net">HTML5 UP</a>.</p>'+
     '</footer>';
