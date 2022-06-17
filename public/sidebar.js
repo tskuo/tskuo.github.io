@@ -24,40 +24,40 @@ document.getElementById("mysidebar").innerHTML =
         '</ul>'+
     '</nav>'+
 
-    '<section>'+
-        '<header class="major">'+
-            '<h2>Latest News</h2>'+
-        '</header>'+
-        '<div class="mini-posts">'+
-            '<article>'+
-                '<p>Oct 30: Our HCOMP paper received the Best Poster Award!</p>'+
-            '</article>'+
-            '<article>'+
-                '<p>Sep 17: One paper submitted to CHI 2021!</p>'+
-            '</article>'+
-            '<article>'+
-                '<p>Aug 05: Let It Rip is accepted at UIST 2020!</p>'+
-            '</article>'+
-        '</div>'+
-        '<!--'+
-        '<ul class="actions">'+
-            '<li><a href="#" class="button">More</a></li>'+
-        '</ul>'+
-        '-->'+
-    '</section>'+
+    // '<section>'+
+    //     '<header class="major">'+
+    //         '<h2>Latest News</h2>'+
+    //     '</header>'+
+    //     '<div class="mini-posts">'+
+    //         '<article>'+
+    //             '<p>Oct 30: Our HCOMP paper received the Best Poster Award!</p>'+
+    //         '</article>'+
+    //         '<article>'+
+    //             '<p>Sep 17: One paper submitted to CHI 2021!</p>'+
+    //         '</article>'+
+    //         '<article>'+
+    //             '<p>Aug 05: Let It Rip is accepted at UIST 2020!</p>'+
+    //         '</article>'+
+    //     '</div>'+
+    //     '<!--'+
+    //     '<ul class="actions">'+
+    //         '<li><a href="#" class="button">More</a></li>'+
+    //     '</ul>'+
+    //     '-->'+
+    // '</section>'+
 
-    '<section>'+
-        '<header class="major">'+
-            '<h2>Get in Touch</h2>'+
-        '</header>'+
-        '<ul class="contact">'+
-            '<li class="icon solid fa-envelope">tzushenk at cs dot cmu dot edu</li>'+
-            '<!--<li class="icon solid fa-phone">(000) 000-0000</li>-->'+
-            '<li class="icon solid fa-home">Pittsburgh, PA, USA</li>'+
-        '</ul>'+
-    '</section>'+
+    // '<section>'+
+    //     '<header class="major">'+
+    //         '<h2>Get in Touch</h2>'+
+    //     '</header>'+
+    //     '<ul class="contact">'+
+    //         '<li class="icon solid fa-envelope">tzushenk at cs dot cmu dot edu</li>'+
+    //         '<!--<li class="icon solid fa-phone">(000) 000-0000</li>-->'+
+    //         '<li class="icon solid fa-home">Pittsburgh, PA, USA</li>'+
+    //     '</ul>'+
+    // '</section>'+
 
     '<footer id="footer">'+
-        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2021.<br />'+
-        'Original Template: <a href="https://html5up.net">HTML5 UP</a>.</p>'+
+        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2022.<br />'+
+        'Website Template: <a href="https://html5up.net">HTML5 UP</a>.</p>'+
     '</footer>';
