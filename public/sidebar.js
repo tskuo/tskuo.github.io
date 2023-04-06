@@ -58,6 +58,6 @@ document.getElementById("mysidebar").innerHTML =
     // '</section>'+
 
     '<footer id="footer">'+
-        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2022.<br />'+
+        '<p class="copyright">&copy; Tzu-Sheng Kuo, 2023.<br />'+
         'Website Template: <a href="https://html5up.net">HTML5 UP</a>.</p>'+
     '</footer>';
