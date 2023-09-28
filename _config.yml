@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tzu-Sheng Kuo
+email: tzushenk@cs.cmu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Tzu-Sheng Kuo's personal website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "tskuo.github.io" # the base hostname & protocol for your site
+github_username: tskuo
+
+# Build settings
+markdown: kramdown
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path
