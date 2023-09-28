@@ -2,9 +2,11 @@
 layout: bio
 ---
 
-I am a third-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/). I create interactive systems and design methods that empower community members to actively participate in the design and evaluation of responsible AI deployed in community contexts. Working closely with communities ranging from local residents in Pittsburgh and online groups on Wikipedia, my research investigates real-world AI failures and proposes alternative ways to succeed.
+I am a third-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
 
-Previously, I graduated with an M.S. from Stanford University, where I worked with [Prof. James Landay](https://www.landay.org/) and [Prof. Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude from [National Taiwan University](https://www.ntu.edu.tw/english/), where I received B.S. in Electrical Engineering.
+I create interactive systems and design methods that empower community members to actively participate in the design and evaluation of responsible AI deployed in community contexts. Working closely with communities ranging from local residents in Pittsburgh and online groups on Wikipedia, my research investigates real-world AI failures and proposes alternative ways to succeed. My research has received the Best Paper Award and Honorable Mentions at top HCI conferences, including CHI and UIST. I've also been honored with a [CASMI PhD Fellowship](https://casmi.northwestern.edu/) and a [Taiwanese GSSA Fellowship](https://twgps.moe.edu.tw/ResumeList/2).
+
+Previously, I hold an M.S. from from Stanford University, where I worked with [Prof. James Landay](https://www.landay.org/) and [Prof. Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm).
 
 Research interests: human-computer interaction, social computing, participatory design, responsible AI
 
