@@ -273,7 +273,7 @@ Research interests: human-computer interaction, social computing, participatory 
   </ul>
 </div>
 
-<!-- ## artwork
+## student-led initiative
 
 <div class="project-list">
   <ul>
@@ -282,14 +282,20 @@ Research interests: human-computer interaction, social computing, participatory 
     {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
     {% capture project_published %}{{project.published}}{% endcapture %}
     {% capture project_category %}{{project.category}}{% endcapture %}
+    {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
 
     {% if project_published != 'false' %}
-    {% if project_category == 'artwork' %}
+    {% if project_category == 'activity' %}
       <li>
-
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}" title="read PDF...">
+                  {% endif %} 
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
+                  {% if project.paper %}
+                  </a>
+                  {% endif %} 
               </div>
               <div class="project-col project-col-2">
                   <span class="project-title">{{ project.title }}</span>
@@ -314,22 +320,24 @@ Research interests: human-computer interaction, social computing, participatory 
                   {% if project.doi %}
                   <a href="{{ project.doi }}">[doi]</a>
                   {% endif %}
+                  {% if project.arxiv %}
+                  <a href="{{ project.arxiv }}">[arxiv]</a>
+                  {% endif %}
                   {% if project.video %}
                   <a href="{{ project.video }}">[video]</a>
                   {% endif %}
-                  {% if project.permalink %}
+                  {% if project.info %}
                   <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
                   {% endif %}
                   </div>
 
               </div>
           </div>
-
       </li>
     {% endif %}
-     {% endif %}
+    {% endif %}
     {% endfor %}
   </ul>
-</div> -->
+</div>
 
 {% include footer.html %}
