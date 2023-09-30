@@ -10,74 +10,11 @@ Previously, I hold an M.S. from Stanford University, where I worked with [Prof. 
 
 Research interests: human-computer interaction, social computing, participatory design, responsible AI
 
-[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=i305250AAAAJ&hl=en)&nbsp;] [&nbsp;[@tzushengkuo](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[ORCID](https://orcid.org/0000-0002-1504-7640)&nbsp;]
+[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=i305250AAAAJ&hl=en)&nbsp;] [&nbsp;[@tzushengkuo](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[short bio](/assets/shortbio.pdf)&nbsp;]
 
 <div class="project-list-highlight">
 
   <h2>Main PhD research: <br>community-driven AI design and evaluation</h2>
-
-  <!-- <h3>vision articles</h3>
-
-  <div class="project-list">
-    <ul>
-      {% for project in site.projects reversed %}
-
-      {% capture project_year %}{{project.date | date: "%Y"}}{% endcapture %}
-      {% capture project_published %}{{project.published}}{% endcapture %}
-      {% capture project_category %}{{project.category}}{% endcapture %}
-
-      {% if project_category == 'article' and project_published != 'false' %}
-        <li>
-
-            <div class="project-col-wrapper">
-                <div class="project-col project-col-1">
-                    {% if project.paper %}
-                    <a href="{{ project.paper }}" title="read PDF...">
-                    {% endif %} 
-                    <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
-                    {% if project.paper %}
-                    </a>
-                    {% endif %} 
-                </div>
-                <div class="project-col project-col-2">
-                    <span class="project-title">{{ project.title }}</span>
-                    {% if project.description %}
-                    <div class="project-description">{{ project.description }}</div>
-                    {% endif %}
-                    {% if project.author %}
-                    <div class="project-author">{{ project.author }}</div>
-                    {% endif %}
-                    {% if project.publication %}
-                    <div class="project-publication">{{ project.publication }}</div>
-                    {% endif %}
-                    {% if project.award %}
-                    <div class="project-award"><b>{{ project.award }}</b></div>
-                    {% endif %}
-                    <div class="project-link">
-                    {% if project.paper %}
-                    <a href="{{ project.paper }}">[article]</a>
-                    {% endif %}
-                    {% if project.doi %}
-                    <a href="{{ project.doi }}">[doi]</a>
-                    {% endif %}
-                    {% if project.video %}
-                    <a href="{{ project.video }}">[video]</a>
-                    {% endif %}
-                    {% if project.poster %}
-                    <a href="{{ project.poster }}">[poster]</a>
-                    {% endif %}
-                    {% if project.permalink %}
-                    <a href="{{ project.url | prepend: site.baseurl }}">[more info]</a>
-                    {% endif %}
-                    </div>
-                </div>
-            </div>
-
-        </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div> -->
 
   <h3>lead author papers</h3>
 
