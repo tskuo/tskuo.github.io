@@ -273,7 +273,7 @@ Research interests: human-computer interaction, social computing, participatory 
   </ul>
 </div>
 
-## student-led initiative
+## more initiative
 
 <div class="project-list">
   <ul>
