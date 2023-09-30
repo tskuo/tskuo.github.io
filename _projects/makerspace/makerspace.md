@@ -28,21 +28,34 @@ In 2017, Fan-Keng, Jim, and I co-chaired the inaugural [MakeNTU](/projects/maken
 
 ## Workshops and Projects
 
-Since then, our students have initiated a series of workshops where seniors teach juniors basic prototyping skills, covering circuit design, 3D modeling and printing, etc. With these cultivated skills, students collaboratively bring their ideas to life. For example, our students designed clothing and the system for a light dance performance at the annual EE night.
+Since then, our students have initiated a series of workshops where seniors teach juniors basic prototyping skills, covering circuit design, 3D modeling and printing, etc. With these cultivated skills, students collaboratively bring their ideas to life. For example, our students designed clothing and the system for a light dance performance at the annual EE night. These activities and artifacts eventually convinced the faculty about the value of the makerspace, leading to additional spaces and funding. 
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/mqOuc5dEzjo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 {% include image.html
-           img="/projects/makerspace/group1.jpg" %}
+           img="/projects/makerspace/group1.png" %}
 
 {% include image.html
-           img="/projects/makerspace/group2.jpg" %}
+           img="/projects/makerspace/group2.png" %}
 
 {% include image.html
-           img="/projects/makerspace/group3.jpg" %}
+           img="/projects/makerspace/group3.png" %}
 
 {% include image.html
-           img="/projects/makerspace/group4.jpg" 
+           img="/projects/makerspace/group4.png" 
            caption="Student-led workshops and projects"%}
+
+## Thermometer for COVID-19
+
+During the COVID-19 pandemic, our student developed and deployed a thermometer across the National Taiwan University (NTU) campus to prevent individuals from entering the building with a fever. The system was well-received by both faculty and students, effectively preventing the spread of the pandemic across the campus.
+
+{% include image.html
+           img="/projects/makerspace/group5.png" 
+           caption="The student development team and the deployment of thermometers on campus."%}
+
+## Selected Press
+
+- 台灣達人秀 – [台大電機神同步10人夜光舞致敬麥可45度傾斜超吸睛！](https://youtu.be/FXLosHgKPuQ?feature=shared)
+- 親子天下 – [台大電機生改良SARS功臣「防疫一號」，精確掌控每天7萬次體溫監控](https://flipedu.parenting.com.tw/article/006004?fbclid=IwAR3_MtZLQss3VMeGzePwi0JhyeHRIp4Wj8iiDLkipbw8MwvPg292ypGN3eA)
