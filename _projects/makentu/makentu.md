@@ -1,17 +1,10 @@
 ---
-# POST FRONT MATTER
-# layout: post
-# title:  "title"
-# subtitle: "subtitle"
-# date:   2000-01-01 00:00:00 +0000
-
-# PROJECT FRONT MATTER
 layout: project
 category: initiative
 date:  2017-02-25 00:00:00 +0000
-title: "MakeNTU 2017"
+title: "MakeNTU"
 description: "The first nationwide makeathon in Taiwan"
-author: "<b>Tzu-Sheng Kuo</b>, Fan-Keng Sun, Jim Liu"
+author: "Co-Chairs: <b>Tzu-Sheng Kuo</b>, Fan-Keng Sun, Jim Liu"
 thumbnail: /projects/makentu/makentu_square.png
 video: https://youtu.be/ONHAIADXrsw?feature=shared
 permalink: /projects/makentu/
@@ -58,7 +51,7 @@ MakeNTU wouldn't be possible without the incredible efforts of 60 student volunt
 
 {% include image.html
            img="/projects/makentu/13.jpg"
-           caption="MakeNTU 2017 Organizaing Team"%}
+           caption="MakeNTU 2017 Organizing Team"%}
 
 ## MakeNTU continued
 
