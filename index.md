@@ -285,7 +285,7 @@ Research interests: human-computer interaction, social computing, participatory 
     {% capture project_subcategory %}{{project.subcategory}}{% endcapture %}
 
     {% if project_published != 'false' %}
-    {% if project_category == 'activity' %}
+    {% if project_category == 'initiative' %}
       <li>
           <div class="project-col-wrapper">
               <div class="project-col project-col-1">
