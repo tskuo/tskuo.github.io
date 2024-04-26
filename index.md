@@ -4,13 +4,13 @@ layout: bio
 
 I am a third-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
 
-I create interactive systems and design methods that support community-driven approaches to AI design and evaluation. Working closely with communities ranging from local residents in Pittsburgh and online groups on Wikipedia, my research explores how communities can actively shape AI design toward their goals and values, and assess appropriateness for their contexts. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with a [CASMI PhD Fellowship](https://casmi.northwestern.edu/) and a [Taiwanese GSSA Fellowship](https://twgps.moe.edu.tw/ResumeList/2).
+I creates interactive systems and methods that support community-driven approaches to AI design and evaluation. Working closely with both online and offline communities, my research explores how communities can actively shape AI design toward their goals and values, and assess appropriateness for their contexts. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with a [CASMI PhD Fellowship](https://casmi.northwestern.edu/) and a [Taiwanese GSSA Fellowship](https://twgps.moe.edu.tw/ResumeList/2).
 
 Previously, I hold an M.S. from Stanford University, where I worked with [Prof. James Landay](https://www.landay.org/) and [Prof. Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm).
 
 Research interests: human-computer interaction, social computing, participatory design, responsible AI
 
-[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=i305250AAAAJ&hl=en)&nbsp;] [&nbsp;[@tzushengkuo](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[short bio](/assets/shortbio.pdf)&nbsp;]
+[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=i305250AAAAJ&hl=en)&nbsp;] [&nbsp;[@tzushengkuo](https://twitter.com/tzushengkuo)&nbsp;]
 
 <div class="project-list-highlight">
 
