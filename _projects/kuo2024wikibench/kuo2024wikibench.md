@@ -8,4 +8,5 @@ author: "<b>Tzu-Sheng Kuo</b>, Aaron Halfaker, Zirui Cheng<sup>*</sup>, Jiwoo Ki
 publication:  "CHI 2024 Paper"
 thumbnail: /projects/kuo2024wikibench/kuo2024wikibench.jpg
 paper: /projects/kuo2024wikibench/kuo2024wikibench.pdf
+doi: https://doi.org/10.1145/3613904.3642278
 ---
