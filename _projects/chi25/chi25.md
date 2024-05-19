@@ -1,0 +1,10 @@
+---
+layout: project
+category: initiative
+date:  2025-04-26 00:00:00 +0000
+title: "ACM CHI Conference"
+description: "Student Volunteer Co-Chair"
+author: "Co-Chairs: <b>Tzu-Sheng Kuo</b>, Mikołaj P. Woźniak, Shohei Mori, Nuwan Janaka"
+thumbnail: /projects/chi25/chi25.jpg
+website: https://chi2025.acm.org/
+---
