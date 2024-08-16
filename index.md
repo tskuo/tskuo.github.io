@@ -4,7 +4,7 @@ layout: bio
 
 I am a third-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
 
-I creates interactive systems and methods that support community-driven approaches to AI design and evaluation. Working closely with both online and offline communities, my research explores how communities can actively shape AI design toward their goals and values, and assess appropriateness for their contexts. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with the [CASMI PhD Fellowship](https://casmi.northwestern.edu/), [Taiwanese GSSA Fellowship](https://twgps.moe.edu.tw/ResumeList/2), and as a [MLCommons ML and Systems Rising Stars](https://mlcommons.org/about-us/programs/).
+I creates interactive systems and methods that support community-driven approaches to AI design and evaluation. Working closely with both online and offline communities, my research explores how communities can actively shape AI design toward their goals and values, and assess appropriateness for their contexts. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with the [CASMI PhD Fellowship](https://casmi.northwestern.edu/), [Taiwanese GSSA Fellowship](https://twgps.moe.edu.tw/ResumeList/2), and as a [MLCommons ML and Systems Rising Star](https://mlcommons.org/about-us/programs/).
 
 Previously, I hold an M.S. from Stanford University, where I worked with [Prof. James Landay](https://www.landay.org/) and [Prof. Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm).
 
@@ -34,11 +34,11 @@ Research interests: human-computer interaction, social computing, participatory 
                 <div class="project-col project-col-1">
                     {% if project.paper %}
                     <a href="{{ project.paper }}" title="read PDF...">
-                    {% endif %} 
+                    {% endif %}
                     <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
                     {% if project.paper %}
                     </a>
-                    {% endif %} 
+                    {% endif %}
                 </div>
                 <div class="project-col project-col-2">
                     <span class="project-title">{{ project.title }}</span>
@@ -78,6 +78,7 @@ Research interests: human-computer interaction, social computing, participatory 
       {% endif %}
       {% endfor %}
     </ul>
+
   </div>
 
   <!-- <h3>collaborated papers</h3>
@@ -143,7 +144,6 @@ Research interests: human-computer interaction, social computing, participatory 
 
 </div>
 
-
 ## more research
 
 <div class="project-list">
@@ -163,11 +163,11 @@ Research interests: human-computer interaction, social computing, participatory 
               <div class="project-col project-col-1">
                   {% if project.paper %}
                   <a href="{{ project.paper }}" title="read PDF...">
-                  {% endif %} 
+                  {% endif %}
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
                   {% if project.paper %}
                   </a>
-                  {% endif %} 
+                  {% endif %}
               </div>
               <div class="project-col project-col-2">
                   <span class="project-title">{{ project.title }}</span>
@@ -179,12 +179,12 @@ Research interests: human-computer interaction, social computing, participatory 
                   {% endif %}
                   {% if project.publication %}
                   <div class="project-publication">{{ project.publication }}</div>
-                  {% endif %}            
-                  
+                  {% endif %}
+
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
-                  
+
                   <div class="project-link">
                   {% if project.paper %}
                   <a href="{{ project.paper }}">[paper]</a>
@@ -213,6 +213,7 @@ Research interests: human-computer interaction, social computing, participatory 
     {% endif %}
     {% endif %}
     {% endfor %}
+
   </ul>
 </div>
 
@@ -234,11 +235,11 @@ Research interests: human-computer interaction, social computing, participatory 
               <div class="project-col project-col-1">
                   {% if project.paper %}
                   <a href="{{ project.paper }}" title="read PDF...">
-                  {% endif %} 
+                  {% endif %}
                   <img src="{{ project.thumbnail }}" alt="{{ project.title }}"/>
                   {% if project.paper %}
                   </a>
-                  {% endif %} 
+                  {% endif %}
               </div>
               <div class="project-col project-col-2">
                   <span class="project-title">{{ project.title }}</span>
@@ -250,12 +251,12 @@ Research interests: human-computer interaction, social computing, participatory 
                   {% endif %}
                   {% if project.publication %}
                   <div class="project-publication">{{ project.publication }}</div>
-                  {% endif %}            
-                  
+                  {% endif %}
+
                   {% if project.award %}
                   <div class="project-award"><b>{{ project.award }}</b></div>
                   {% endif %}
-                  
+
                   <div class="project-link">
                   {% if project.paper %}
                   <a href="{{ project.paper }}">[paper]</a>
@@ -283,6 +284,7 @@ Research interests: human-computer interaction, social computing, participatory 
     {% endif %}
     {% endif %}
     {% endfor %}
+
   </ul>
 </div>
 
