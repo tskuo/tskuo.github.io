@@ -14,7 +14,7 @@ Research interests: human-computer interaction, social computing, participatory 
 
 <div class="project-list-highlight">
 
-  <h2>Main PhD research: <br>community-driven AI design and evaluation</h2>
+  <h2>Main research: community-driven AI design, evaluation, and governance</h2>
 
   <h3>lead author papers</h3>
 
@@ -60,6 +60,9 @@ Research interests: human-computer interaction, social computing, participatory 
                     {% endif %}
                     {% if project.doi %}
                     <a href="{{ project.doi }}">[doi]</a>
+                    {% endif %}
+                    {% if project.arxiv %}
+                    <a href="{{ project.arxiv }}">[arxiv]</a>
                     {% endif %}
                     {% if project.video %}
                     <a href="{{ project.video }}">[video]</a>
