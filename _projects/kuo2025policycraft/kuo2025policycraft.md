@@ -7,5 +7,7 @@ title: "PolicyCraft: Supporting Collaborative and Participatory Policy Design th
 author: "<b>Tzu-Sheng Kuo</b>, Quan Ze Chen, Amy X. Zhang, Jane Hsieh, Haiyi Zhu<sup>‡</sup>, Kenneth Holstein<sup>‡</sup>"
 publication: "CHI 2025 Paper"
 thumbnail: /projects/kuo2025policycraft/kuo2025policycraft.jpg
-arxiv: https://arxiv.org/abs/2409.15644
+paper: /projects/kuo2025policycraft/kuo2025policycraft.pdf
+doi: https://doi.org/10.1145/3706598.3713865
+video: https://youtu.be/hfTTzGwuhB0?feature=shared
 ---

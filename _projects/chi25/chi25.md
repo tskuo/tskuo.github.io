@@ -1,7 +1,7 @@
 ---
 layout: project
 category: initiative
-date:  2025-04-26 00:00:00 +0000
+date: 2025-04-26 00:00:00 +0000
 title: "ACM CHI Conference"
 description: "The top international conference of Human-Computer Interaction"
 author: "Student Volunteer Co-Chairs: <b>Tzu-Sheng Kuo</b>, Mikołaj P. Woźniak, Shohei Mori, Nuwan Janaka"

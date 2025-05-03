@@ -8,5 +8,6 @@ author: "Jane Hsieh, Angie Zhang, Sajel Surati, Sijia Xie, Yeshua Ayala, Nithila
 publication: "CHI 2025 Paper"
 award: 🏅 Best Paper Honorable Mention
 thumbnail: /projects/hsieh2025gig2gether/hsieh2025gig2gether.jpg
-arxiv: https://arxiv.org/abs/2502.04482
+paper: /projects/hsieh2025gig2gether/hsieh2025gig2gether.pdf
+doi: https://doi.org/10.1145/3706598.3714398
 ---
