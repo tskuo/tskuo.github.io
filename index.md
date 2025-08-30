@@ -2,7 +2,7 @@
 layout: bio
 ---
 
-I am a fourth-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
+I am a fifth-year PhD student in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
 
 My research focuses on transforming the current top-down and centralized approach to AI development, towards more community-driven, deliberative, and democratic processes. To achieve this vision, I develop systems and processes that empower individuals and communities impacted by AI to actively shape its design, evaluation, and governance. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with the [K&L Gates Presidential Fellowship in Ethics and Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html), [CASMI PhD Fellowship](https://casmi.northwestern.edu/), [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/), and as an [MLCommons ML and Systems Rising Star](https://mlcommons.org/about-us/programs/).
 
