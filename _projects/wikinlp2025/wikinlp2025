@@ -1,0 +1,11 @@
+---
+layout: project
+category: workshop
+date: 2025-08-01 00:00:00 +0000
+title: "WikiNLP: Advancing Natural Language Processing for Wikipedia"
+author: "Akhil Arora, Isaac Johnson, Lucie-Aimée Kaffee, <b>Tzu-Sheng Kuo</b>, Tiziano Piccardi, Indira Sen"
+publication: "ACL 2025 Workshop"
+thumbnail: /projects/wikinlp2025/wikinlp2025.jpg
+website: https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025)
+---
+
