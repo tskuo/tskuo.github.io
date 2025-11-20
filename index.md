@@ -2,9 +2,9 @@
 layout: bio
 ---
 
-I am a fifth-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Prof. Ken Holstein](https://kenholstein.com/) and [Prof. Haiyi Zhu](https://haiyizhu.com/).
+I am a fifth-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Ken Holstein](https://kenholstein.com/) and [Haiyi Zhu](https://haiyizhu.com/), with additional guidance from my committee members: [Amy X. Zhang](https://homes.cs.washington.edu/~axz/), [Niki Kittur](https://kittur.org/), and [Michael Bernstein](https://hci.stanford.edu/msb/).
 
-My research focuses on transforming the current top-down and centralized approach to AI development, towards more community-driven, deliberative, and democratic processes. To achieve this vision, I develop systems and processes that empower communities impacted by AI to collaboratively shape its design, evaluation, and governance. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have also been recognized with the [K&L Gates Presidential Fellowship in Ethics and Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html), [CASMI PhD Fellowship](https://casmi.northwestern.edu/), [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/), and as an [MLCommons ML and Systems Rising Star](https://mlcommons.org/about-us/programs/).
+My research reimagines the current AI development paradigm by empowering communities to actively shape the AI that impacts their lives. To achieve this vision, I create interactive systems that enable communities to collaboratively develop AI datasets, policies, and agents for themselves. My systems support collaborative ideation, consensus-building, and shared decision-making among community members, allowing them to harness their collective intelligence and better align AI with their specific needs and values. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have been named a [Rising Star in ML and Systems](https://mlcommons.org/about-us/programs/) and have been recognized with the [K&L Gates Presidential Fellowship in Ethics and Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html) and the [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/).
 
 Previously, I hold an M.S. from Stanford University, where I worked with [Prof. James Landay](https://www.landay.org/) and [Prof. Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm).
 
@@ -147,7 +147,7 @@ Research interests: human-computer interaction, social computing, participatory 
 
 </div>
 
-## more research
+## other research
 
 <div class="project-list">
   <ul>
@@ -291,7 +291,7 @@ Research interests: human-computer interaction, social computing, participatory 
   </ul>
 </div>
 
-## other leadership
+## selected leadership
 
 <div class="project-list">
   <ul>
