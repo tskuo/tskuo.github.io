@@ -4,10 +4,10 @@ layout: bio
 
 <div class="announcement">
   <b>On the job market for 2026–27!</b>
-  <p style="margin-bottom: 0px">I'm excited to apply for tenure-track faculty positions in academia and research scientist roles in industry or nonprofits. Please feel free to email me about relevant opportunities!</p>
+  <p style="margin-bottom: 0px">I am excited about tenure-track faculty positions and research scientist roles. Please email me about relevant opportunities!</p>
 </div>
 
-I am a fifth-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am very grateful to be co-advised by [Ken Holstein](https://kenholstein.com/) and [Haiyi Zhu](https://haiyizhu.com/), with additional guidance from my committee members: [Amy X. Zhang](https://homes.cs.washington.edu/~axz/), [Niki Kittur](https://kittur.org/), and [Michael Bernstein](https://hci.stanford.edu/msb/). Starting in May 2026, I'll also be working with [Michael Terry](https://research.google/people/107786/) and [Meredith Ringel Morris](https://research.google/people/meredithringelmorris/) as a student researcher at Google DeepMind.
+I am a fifth-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, where I am grateful to be co-advised by [Ken Holstein](https://kenholstein.com/) and [Haiyi Zhu](https://haiyizhu.com/), with additional guidance from my committee members: [Amy X. Zhang](https://homes.cs.washington.edu/~axz/), [Niki Kittur](https://kittur.org/), and [Michael Bernstein](https://hci.stanford.edu/msb/). Starting in May 2026, I'll also be working with [Michael Terry](https://research.google/people/107786/) and [Meredith Ringel Morris](https://research.google/people/meredithringelmorris/) as a student researcher at Google DeepMind.
 
 My research reimagines the current AI development paradigm by empowering communities to actively shape the AI that impacts their lives. To achieve this vision, I create interactive systems that enable communities to collaboratively develop AI datasets, policies, and agents for themselves. My systems support collaborative ideation, consensus-building, and shared decision-making among community members, allowing them to harness their collective intelligence and better align AI with their specific needs and values. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have been named a [Rising Star in ML and Systems](https://mlcommons.org/about-us/programs/) and have been recognized with the [K&L Gates Presidential Fellowship in Ethics and Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html) and the [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/).
 
@@ -19,7 +19,8 @@ Research interests: human-computer interaction, social computing, participatory 
 
 <div class="project-list-highlight">
 
-  <h2>Main research: community-driven AI design, evaluation, and governance</h2>
+  <!-- <h2>Main research: community-driven AI design, evaluation, and governance</h2> -->
+  <h2><b>Main research</b>: systems & methods that empower communities to collaboratively align AI with their needs & values</h2>
 
   <h3>representative papers</h3>
 
