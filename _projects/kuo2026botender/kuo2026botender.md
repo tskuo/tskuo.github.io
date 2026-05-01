@@ -8,5 +8,5 @@ author: "<b>Tzu-Sheng Kuo</b>, Sophia Liu, Quan Ze Chen, Joseph Seering, Amy X. 
 publication: "CHI 2026 Paper"
 thumbnail: /projects/kuo2026botender/kuo2026botender.png
 paper: /projects/kuo2026botender/kuo2026botender.pdf
-arxiv: https://www.arxiv.org/abs/2509.25492
+doi: https://doi.org/10.1145/3772318.3790500
 ---
