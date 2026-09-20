@@ -8,5 +8,5 @@ author: "K. J. Kevin Feng, <b>Tzu-Sheng Kuo</b>, Quan Ze Chen, Inyoung Cheong, K
 publication: "CHI 2026 Paper"
 thumbnail: /projects/feng2026policypad/feng2026policypad.png
 paper: /projects/feng2026policypad/feng2026policypad.pdf
-arxiv: https://arxiv.org/abs/2509.19680
+doi: https://dl.acm.org/doi/full/10.1145/3772318.3791689
 ---

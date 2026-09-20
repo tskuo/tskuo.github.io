@@ -1,10 +1,10 @@
 ---
 layout: project
 category: initiative
-date:  2017-02-25 00:00:00 +0000
+date: 2017-02-25 00:00:00 +0000
 title: "MakeNTU"
 description: "The first nationwide makeathon in Taiwan"
-author: "Co-Chairs: <b>Tzu-Sheng Kuo</b>, Fan-Keng Sun, Jim Liu"
+author: "Co-Founders: <b>Tzu-Sheng Kuo</b>, Fan-Keng Sun, Jim Liu"
 thumbnail: /projects/makentu/makentu_square.png
 video: https://youtu.be/ONHAIADXrsw?feature=shared
 permalink: /projects/makentu/

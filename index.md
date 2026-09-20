@@ -3,26 +3,28 @@ layout: bio
 ---
 
 <div class="announcement">
-  <b>On the job market for 2026–27!</b>
-  <p style="margin-bottom: 0px">I am excited about tenure-track faculty positions and research scientist roles. Please email me about relevant opportunities!</p>
+  <b>On the job market for 2026–27</b>
+  <p style="margin-bottom: 0px">I am seeking tenure-track faculty and research scientist positions!</p>
 </div>
 
 I am a final-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, co-advised by [Ken Holstein](https://kenholstein.com/) and [Haiyi Zhu](https://haiyizhu.com/), with a committee including [Amy X. Zhang](https://homes.cs.washington.edu/~axz/), [Niki Kittur](https://kittur.org/), and [Michael Bernstein](https://hci.stanford.edu/msb/). Currently, I am also a Student Researcher at Google DeepMind, working with [Michael Terry](https://research.google/people/107786/) and [Merrie Morris](https://research.google/people/meredithringelmorris/) in the [People + AI Research (PAIR)](https://pair.withgoogle.com/) Team. 
 
-My research reimagines the current AI development paradigm by empowering communities to actively shape the AI that impacts their lives. To achieve this vision, I create interactive systems that enable communities to collaboratively develop AI datasets, policies, and agents for themselves. My systems support collaborative ideation, consensus-building, and shared decision-making among community members, allowing them to harness their collective intelligence and better align AI with their specific needs and values. My research has received Best Paper and Honorable Mention Awards at top HCI conferences, including CHI and UIST. I have been named a [Rising Star in ML and Systems](https://mlcommons.org/about-us/programs/) and have been recognized with the [K&L Gates Presidential Fellowship in Ethics and Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html) and the [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/).
+I envision a future where AI is shaped by the people it serves, who best understand their contexts, rather than dictated by today's one-model-fits-all paradigm that systemically fails diverse needs. To drive this paradigm shift, I create systems that transform an otherwise uncoordinated public into collaborative civic actors. My systems provide the technical scaffolding that empowers people to harness their collective intelligence, aligning AI with their values, cultural norms, and lived experiences.
 
-Previously, I hold an M.S. from Stanford University, where I worked with [James Landay](https://www.landay.org/) and [Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm).
+My research has received four Best Paper and Honorable Mention awards. I am recognized as a [Rising Star in ML & Systems](https://mlcommons.org/about-us/programs/) and [CMU's Fellow on AI & Society](https://www.cmu.edu/block-center/our-work/block-ai-society-fellowship), with support from the [Presidential Fellowship in Ethics & Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html) and the [Taiwanese GSSA Fellowship](https://www.scholarship.moe.gov.tw/). Beyond academia, I actively collaborate with industry partners like Microsoft and Google DeepMind, civic initiatives like MetaGov and the Wikimedia Foundation, and local communities in Pittsburgh and Taiwan. My work has informed policy reports from the White House OSTP and the European Parliament.
 
-Research interests: human-computer interaction, social computing, participatory design, responsible AI
+<!-- Previously, I hold an M.S. from Stanford University, where I worked with [James Landay](https://www.landay.org/) and [Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm). -->
 
-[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?user=i305250AAAAJ&hl=en)&nbsp;] [&nbsp;[twitter](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[bluesky](https://bsky.app/profile/tskuo.bsky.social)&nbsp;] [&nbsp;[linkedin](https://www.linkedin.com/in/tzu-sheng-kuo)&nbsp;]
+<!-- Research interests: human-computer interaction, social computing, participatory design, responsible AI -->
+
+[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?hl=en&user=i305250AAAAJ&view_op=list_works&sortby=pubdate)&nbsp;] [&nbsp;[twitter](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[bluesky](https://bsky.app/profile/tskuo.bsky.social)&nbsp;] [&nbsp;[linkedin](https://www.linkedin.com/in/tzu-sheng-kuo)&nbsp;]
 
 <div class="project-list-highlight">
 
-  <!-- <h2>Main research: community-driven AI design, evaluation, and governance</h2> -->
-  <h2><b>Main research</b>: systems & methods that empower communities to collaboratively align AI with their needs & values</h2>
+  <h2><b>Main Research:</b></h2>
+  <h2>Shaping AI through collective intelligence</h2>
 
-  <h3>representative papers</h3>
+  <h3>featured publications</h3>
 
   <div class="project-list">
     <ul>
