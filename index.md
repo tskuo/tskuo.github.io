@@ -15,9 +15,7 @@ My interdisciplinary research has impact across academia, industry, and policy. 
 
 <!-- Previously, I hold an M.S. from Stanford University, where I worked with [James Landay](https://www.landay.org/) and [Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm). -->
 
-<!-- Research interests: human-computer interaction, social computing, participatory design, responsible AI -->
-
-[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[research statement](/assets/TzuShengKuo_Research_Statement.pdf)&nbsp;] [&nbsp;[teaching statement](/assets/TzuShengKuo_Teaching_Statement.pdf)&nbsp;]
+[&nbsp;[curriculum&nbsp;vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[research&nbsp;statement](/assets/TzuShengKuo_Research_Statement.pdf)&nbsp;] [&nbsp;[teaching&nbsp;statement](/assets/TzuShengKuo_Teaching_Statement.pdf)&nbsp;]
 
 <div class="project-list-highlight">
 
