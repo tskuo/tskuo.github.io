@@ -4,7 +4,7 @@ category: featured
 subcategory: first-author
 date: 2023-04-19 00:00:00 +0000
 title: "Understanding Frontline Workers' and Unhoused Individuals' Perspectives on AI Used in Homeless Services"
-author: "<b>Tzu-Sheng Kuo</b><sup>†</sup>, Hong Shen<sup>†</sup>, Jisoo Geum, Nev Jones, Jason I. Hong, Haiyi Zhu<sup>‡</sup>, Kenneth Holstein<sup>‡</sup>"
+author: "<b>Tzu-Sheng Kuo</b>, Hong Shen, Jisoo Geum, Nev Jones, Jason I. Hong, Haiyi Zhu, Kenneth Holstein"
 publication: "CHI 2023"
 award: 🏆 Best Paper Award (Top 1%)
 thumbnail: /projects/kuo2023understanding/kuo2023understanding.png

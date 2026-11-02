@@ -49,7 +49,7 @@ Since then, our students have initiated a series of workshops where seniors teac
 
 ## Thermometer for COVID-19
 
-During the COVID-19 pandemic, our student developed and deployed a thermometer across the National Taiwan University (NTU) campus to prevent individuals from entering the building with a fever. The system was well-received by both faculty and students, effectively preventing the spread of the pandemic across the campus.
+During the COVID-19 pandemic, our students developed and deployed a thermometer across the National Taiwan University (NTU) campus to prevent individuals from entering the building with a fever. The system was well-received by both faculty and students, effectively preventing the spread of the pandemic across the campus.
 
 {% include image.html
            img="/projects/makerspace/group5.png"
@@ -58,4 +58,4 @@ During the COVID-19 pandemic, our student developed and deployed a thermometer a
 ## Selected Press
 
 - 台灣達人秀 – [台大電機神同步10人夜光舞致敬麥可45度傾斜超吸睛！](https://youtu.be/FXLosHgKPuQ?feature=shared)
-- 親子天下 – [台大電機生改良SARS功臣「防疫一號」，精確掌控每天7萬次體溫監控](https://flipedu.parenting.com.tw/article/006004?fbclid=IwAR3_MtZLQss3VMeGzePwi0JhyeHRIp4Wj8iiDLkipbw8MwvPg292ypGN3eA)
+- 親子天下 – [台大電機生改良SARS功臣「防疫一號」，精確掌控每天7萬次體溫監控](https://flipedu.parenting.com.tw/article/006004)
