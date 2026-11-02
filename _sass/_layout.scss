@@ -192,8 +192,15 @@ h2.post-title {
   font-family: $base-font-family;
   margin-bottom: $spacing-unit;
 
+  // Optional: gives links inside paragraphs a faint resting underline
+  // p a {
+  //   border-bottom: 1px solid #dcd8cf;
+  //   &:hover {
+  //     border-bottom: 1px solid $alt-color;
+  //   }
+  // }
+
   a {
-    // border-bottom: 1px solid $grey-color-light;
     &:hover {
       border-bottom: 1px solid $alt-color;
     }
@@ -209,7 +216,7 @@ h2.post-title {
   }
 
   p {
-    font-size: 16px;
+    font-size: $base-font-size;
     line-height: 28px;
     margin-bottom: 28px;
   }
@@ -329,10 +336,13 @@ h2.post-title {
 }
 
 .project-title {
+  display: block;
   font-family: $title-font-family;
-  font-weight: $title-font-weight;
-  font-size: 1.2em;
-  line-height: 1.2em;
+  font-weight: 475;
+  font-size: 1.07em;
+  line-height: 1.28;
+  color: #333333;
+  margin-bottom: 3px;
 }
 
 .project-col-wrapper {
@@ -403,30 +413,41 @@ h2.post-title {
 }
 
 .project-description {
-  font-family: $title-font-family;
-  font-weight: $title-font-weight;
-  font-size: 1em;
-  line-height: 1.2em;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  font-size: 0.92em;
+  line-height: 1.35;
+  margin-bottom: 2px;
+  color: $grey-color;
 }
 .project-author {
-  font-size: 0.8em;
+  font-size: 0.9em;
+  line-height: 1.35;
+  margin-bottom: 2px;
+  color: #555555;
+  b,
+  strong {
+    color: #333333;
+  }
 }
-// .project-author b {
-//     border-bottom: 1px solid $alt-color;
-// }
 .project-link {
-  font-size: 0.8em;
+  font-size: 0.9em;
+  line-height: 1.35;
 }
 .project-publication {
-  font-family: $title-font-family;
-  font-weight: $title-font-weight;
-  font-size: 0.8em;
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  font-size: 0.9em;
+  line-height: 1.35;
+  margin-bottom: 2px;
   color: $grey-color;
 }
 .project-award {
-  font-family: $title-font-family;
-  font-weight: 700;
-  font-size: 0.8em;
+  font-family: $base-font-family;
+  font-weight: 600;
+  font-size: 0.9em;
+  line-height: 1.35;
+  margin-bottom: 2px;
   color: $alt-color;
 }
 
@@ -449,27 +470,68 @@ h2.post-title {
 }
 
 .bio-col-wrapper {
-  @extend %clearfix;
-}
-.bio-col {
-  float: left;
+  display: flex;
+  align-items: stretch;
   margin-bottom: $spacing-unit-2;
 }
 .bio-col-1 {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width: calc(50% - (#{$spacing-unit} / 2));
-}
-.bio-col-2 {
-  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-  width: calc(40% - (#{$spacing-unit} / 2));
-  padding-left: $spacing-unit;
-}
-@include media-query($on-palm) {
-  .bio-col {
-    float: none;
+  flex-shrink: 0;
+
+  img {
+    display: block;
     width: 100%;
   }
+}
+.bio-col-2 {
+  flex: 1;
+  padding-left: $spacing-unit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.post-content .bio-social {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding-bottom: 2px;
+
+  a {
+    color: $grey-color;
+    border-bottom: none;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: $text-color;
+      border-bottom: none;
+    }
+  }
+
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+  }
+}
+@include media-query($on-palm) {
+  .bio-col-wrapper {
+    flex-direction: column;
+  }
+  .bio-col-1 {
+    width: 100%;
+    margin-bottom: $spacing-unit-2;
+  }
   .bio-col-2 {
+    width: 100%;
     padding-left: 0;
+    justify-content: flex-start;
+  }
+  .post-content .bio-social {
+    margin-top: 14px;
+    padding-bottom: 0;
   }
 }

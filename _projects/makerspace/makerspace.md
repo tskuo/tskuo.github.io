@@ -1,9 +1,9 @@
 ---
 layout: project
 category: initiative
-date:  2017-09-01 00:00:00 +0000
+date: 2017-09-01 00:00:00 +0000
 title: "NTUEE Makerspace"
-description: "The first student-run makerspace at Nationl Taiwan University"
+description: "The first and only student-run makerspace at National Taiwan University"
 author: "Co-Founders: <b>Tzu-Sheng Kuo</b>, Fan-Keng Sun, Jim Liu"
 thumbnail: /projects/makerspace/makerspace_logo.jpg
 permalink: /projects/makerspace/
@@ -28,7 +28,7 @@ In 2017, Fan-Keng, Jim, and I co-chaired the inaugural [MakeNTU](/projects/maken
 
 ## Workshops and Projects
 
-Since then, our students have initiated a series of workshops where seniors teach juniors basic prototyping skills, covering circuit design, 3D modeling and printing, etc. With these cultivated skills, students collaboratively bring their ideas to life. For example, our students designed clothing and the system for a light dance performance at the annual EE night. These activities and artifacts eventually convinced the faculty about the value of the makerspace, leading to additional spaces and funding. 
+Since then, our students have initiated a series of workshops where seniors teach juniors basic prototyping skills, covering circuit design, 3D modeling and printing, etc. With these cultivated skills, students collaboratively bring their ideas to life. For example, our students designed clothing and the system for a light dance performance at the annual EE night. These activities and artifacts eventually convinced the faculty about the value of the makerspace, leading to additional spaces and funding.
 
 <div class="video-wrapper">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/mqOuc5dEzjo" frameborder="0" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ Since then, our students have initiated a series of workshops where seniors teac
            img="/projects/makerspace/group3.png" %}
 
 {% include image.html
-           img="/projects/makerspace/group4.png" 
+           img="/projects/makerspace/group4.png"
            caption="Student-led workshops and projects"%}
 
 ## Thermometer for COVID-19
@@ -52,7 +52,7 @@ Since then, our students have initiated a series of workshops where seniors teac
 During the COVID-19 pandemic, our student developed and deployed a thermometer across the National Taiwan University (NTU) campus to prevent individuals from entering the building with a fever. The system was well-received by both faculty and students, effectively preventing the spread of the pandemic across the campus.
 
 {% include image.html
-           img="/projects/makerspace/group5.png" 
+           img="/projects/makerspace/group5.png"
            caption="The student development team and the deployment of thermometers on campus."%}
 
 ## Selected Press

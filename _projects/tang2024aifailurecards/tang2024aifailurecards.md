@@ -5,7 +5,7 @@ subcategory: more
 date: 2024-06-03 00:00:00 +0000
 title: "AI Failure Cards: Understanding and Supporting Grassroots Efforts to Mitigate AI Failures in Homeless Services"
 author: "Ningjing Tang, Jiayin Zhi, <b>Tzu-Sheng Kuo</b>, Calla Kainaroi, Jeremy J. Northup, Kenneth Holstein, Haiyi Zhu, Hoda Heidari, Hong Shen"
-publication: "FAccT 2024 Paper"
+publication: "FAccT 2024"
 thumbnail: /projects/tang2024aifailurecards/tang2024aifailurecards.jpg
 paper: /projects/tang2024aifailurecards/tang2024aifailurecards.pdf
 doi: https://doi.org/10.1145/3630106.3658935

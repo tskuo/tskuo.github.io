@@ -9,22 +9,21 @@ layout: bio
 
 I am a final-year PhD candidate in the [Human-Computer Interaction Institute](https://www.hcii.cmu.edu/) at Carnegie Mellon University, co-advised by [Ken Holstein](https://kenholstein.com/) and [Haiyi Zhu](https://haiyizhu.com/), with a committee including [Amy X. Zhang](https://homes.cs.washington.edu/~axz/), [Niki Kittur](https://kittur.org/), and [Michael Bernstein](https://hci.stanford.edu/msb/). Currently, I am also a Student Researcher at Google DeepMind, working with [Michael Terry](https://research.google/people/107786/) and [Merrie Morris](https://research.google/people/meredithringelmorris/) in the [People + AI Research (PAIR)](https://pair.withgoogle.com/) Team.
 
-I am a human-computer interaction researcher who combines system building, participatory design, and responsible AI. As AI impacts vital decisions across public agencies and online communities, I envision a future where AI is shaped by the people it serves, rather than external developers who lack the domain knowledge to address local needs. I build toward this future by creating interactive systems that enable people to harness their collective intelligence for AI alignment. Conversely, my systems also leverage AI to catalyze human collaboration, creating a virtuous cycle where collective <i>human</i> intelligence and <i>artificial</i> intelligence strengthen each other.
+I am a **human-computer interaction** researcher who combines system building, participatory design, and responsible AI. As AI impacts vital decisions across public agencies and online communities, I envision a future where AI is shaped by the people it serves, rather than external developers who lack the domain knowledge to address local needs. I build toward this future by **creating interactive systems that enable people to harness their collective intelligence for AI alignment**. Conversely, my systems also leverage AI to catalyze human collaboration, creating a virtuous cycle where collective _human_ intelligence and _artificial_ intelligence strengthen each other.
 
-My interdisciplinary research has impact across academia, industry, and policy. My first-author papers have earned a CHI Best Paper Award and a NeurIPS Spotlight. I have been named both a [Rising Star in ML & Systems](https://mlcommons.org/about-us/programs/) and a [Rising Star in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/). I was also selected by CMU as its [inaugural Fellow on AI & Society](https://www.cmu.edu/block-center/our-work/block-ai-society-fellowship) and [Presidential Fellow in Ethics & Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html). Beyond academia, my work helped the [Wikimedia Foundation improve AI models](https://en.wikipedia.org/wiki/User:Tzusheng/sandbox/Wikipedia:Wikibench/Campaign:Editquality), inspired [Google's Kaggle to launch Community Benchmarks](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/), and informed policymaking at the [European Parliament](<https://www.europarl.europa.eu/RegData/etudes/STUD/2025/777915/IUST_STU(2025)777915_EN.pdf>) and [White House Office of Science & Technology Policy](https://www.whitehouse.gov/ostp/).
+My interdisciplinary research has impact across academia, industry, and policy. My first-author papers have earned a **CHI Best Paper Award** and a **NeurIPS Spotlight**. I have been named both a [**Rising Star in ML & Systems**](https://mlcommons.org/about-us/programs/) and a [**Rising Star in Data Science**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/). I was also selected by CMU as its [inaugural Fellow on AI & Society](https://www.cmu.edu/block-center/our-work/block-ai-society-fellowship) and [Presidential Fellow in Ethics & Computational Technologies](https://www.cmu.edu/ethics-ai/news/2025-fellows.html). Beyond academia, my work helped the [Wikimedia Foundation improve AI models](https://en.wikipedia.org/wiki/User:Tzusheng/sandbox/Wikipedia:Wikibench/Campaign:Editquality), inspired [Google's Kaggle to launch Community Benchmarks](https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/), and informed policymaking at the [European Parliament](<https://www.europarl.europa.eu/RegData/etudes/STUD/2025/777915/IUST_STU(2025)777915_EN.pdf>) and [White House OSTP](https://www.whitehouse.gov/ostp/).
 
 <!-- Previously, I hold an M.S. from Stanford University, where I worked with [James Landay](https://www.landay.org/) and [Elizabeth Murnane](https://engineering.dartmouth.edu/community/faculty/elizabeth-murnane) in the [Stanford HCI Group](https://hci.stanford.edu/). I also graduated summa cum laude in Electrical Engineering from [National Taiwan University](https://www.ntu.edu.tw/english/), as a [Phi Tau Phi Scholar](http://www.phitauphi.org.tw) and [Irving T. Ho Fellow](https://irvingthofoundation.github.io/ho-fellows.htm). -->
 
 <!-- Research interests: human-computer interaction, social computing, participatory design, responsible AI -->
 
-[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[google&nbsp;scholar](https://scholar.google.com/citations?hl=en&user=i305250AAAAJ&view_op=list_works&sortby=pubdate)&nbsp;] [&nbsp;[twitter](https://twitter.com/tzushengkuo)&nbsp;] [&nbsp;[bluesky](https://bsky.app/profile/tskuo.bsky.social)&nbsp;] [&nbsp;[linkedin](https://www.linkedin.com/in/tzu-sheng-kuo)&nbsp;]
+[&nbsp;tzushenk@cs.cmu.edu&nbsp;] [&nbsp;[curriculum vitae](/assets/TzuShengKuo_CV.pdf)&nbsp;] [&nbsp;[research statement](/assets/TzuShengKuo_Research_Statement.pdf)&nbsp;] [&nbsp;[teaching statement](/assets/TzuShengKuo_Teaching_Statement.pdf)&nbsp;]
 
 <div class="project-list-highlight">
 
-  <h2><b>Main Research:</b></h2>
-  <h2>shaping AI through collective intelligence</h2>
+  <h2><b>Main Research:</b> community-centered AI alignment through collective intelligence</h2>
 
-  <h3>featured publications</h3>
+  <!-- <h3>featured publications</h3> -->
 
   <div class="project-list">
     <ul>
@@ -155,7 +154,7 @@ My interdisciplinary research has impact across academia, industry, and policy. 
 
 </div>
 
-## other research
+## additional publications
 
 <div class="project-list">
   <ul>
