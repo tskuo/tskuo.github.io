@@ -152,7 +152,7 @@ My interdisciplinary research has impact across academia, industry, and policy. 
 
 </div>
 
-## additional publications
+## other selected publications
 
 <div class="project-list">
   <ul>
