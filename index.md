@@ -19,7 +19,7 @@ My interdisciplinary research has impact across academia, industry, and policy. 
 
 <div class="project-list-highlight">
 
-  <h2><b>Main Research:</b> community-centered AI alignment through collective intelligence</h2>
+  <h2><b>Main Research:</b> Interactive Systems for Community-Centered AI Alignment</h2>
 
   <!-- <h3>featured publications</h3> -->
 
