@@ -7,5 +7,6 @@ title: "Community-Centered AI is Feasible and Beneficial for Impacted Communitie
 author: "<b>Tzu-Sheng Kuo</b>, Quan Ze Chen, Amy X. Zhang, Kenneth Holstein, Haiyi Zhu"
 publication: "NeurIPS 2026 - Position Paper Track"
 award: 🏅 Spotlight (Top 2%)
-thumbnail: /projects/kuo2026community/kuo2026community.jpeg
+thumbnail: /projects/kuo2026community/kuo2026community.png
+paper: https://openreview.net/pdf?id=tkc8ELIzzV
 ---
