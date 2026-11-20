@@ -8,5 +8,5 @@ author: "<b>Tzu-Sheng Kuo</b>, Quan Ze Chen, Amy X. Zhang, Kenneth Holstein, Hai
 publication: "NeurIPS 2026 - Position Paper Track"
 award: 🏅 Spotlight (Top 2%)
 thumbnail: /projects/kuo2026community/kuo2026community.png
-paper: https://openreview.net/pdf?id=tkc8ELIzzV
+paper: https://openreview.net/forum?id=tkc8ELIzzV
 ---
